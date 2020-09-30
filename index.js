@@ -7,6 +7,6 @@ const theBeatlesPlay = (musicians, instruments) => {
   return arr;
 }
 
-const johnLennonFacts = () => {
+const johnLennonFacts = (arr) => {
   
 }
