@@ -19,7 +19,7 @@ const johnLennonFacts = (arr) => {
 const iLoveTheBeatles = (n) => {
   let arr = []
   do {
-    arr.push('I love the Beatles')
+    arr.push('I love the Beatles!')
     n++
   } while(n < 15)
   return arr
