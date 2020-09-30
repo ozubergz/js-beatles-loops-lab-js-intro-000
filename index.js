@@ -1,4 +1,4 @@
 // add solution here
-const theBeatlesPlay = () => {
+const theBeatlesPlay = (musicians, instruments) => {
   
 }
